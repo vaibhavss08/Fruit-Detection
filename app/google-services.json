@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "734234627108",
+    "project_id": "fruit-detection-c0623",
+    "storage_bucket": "fruit-detection-c0623.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734234627108:android:4174062e3d0f19012fdcb1",
+        "android_client_info": {
+          "package_name": "com.example.fruitdetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734234627108-910njlfjpm2e4g0ngrv7kt1impos9tfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3o6KfhWgKSks2YpQPJIhornLNQe7cBYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734234627108-910njlfjpm2e4g0ngrv7kt1impos9tfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
